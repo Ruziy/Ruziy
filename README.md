@@ -1,4 +1,4 @@
-## Backend developer
+## Mashine Learning developer
 
 <div>
     <strong style = "font-size: 20px"> Connect with me 👉🏿 </strong> 
